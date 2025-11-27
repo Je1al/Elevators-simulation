@@ -1,0 +1,5 @@
+[
+  {"time": 2, "action": "spawn", "floor": 1, "count": 3},
+  {"time": 5, "action": "spawn", "floor": 10, "count": 2},
+  {"time": 15, "action": "fire_start"},
+  {"time": 25, "action": "fire_end"}
